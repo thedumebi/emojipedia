@@ -4,28 +4,29 @@ const emojipedia = [
     emoji: "💪",
     name: "Tense Biceps",
     meaning:
-      "“You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym."
+      "“You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym.",
   },
   {
     id: 2,
     emoji: "🙏",
     name: "Person With Folded Hands",
     meaning:
-      "Two hands pressed together. Is currently very introverted, saying a prayer, or hoping for enlightenment. Is also used as a “high five” or to say thank you."
+      "Two hands pressed together. Is currently very introverted, saying a prayer, or hoping for enlightenment. Is also used as a “high five” or to say thank you.",
   },
   {
     id: 3,
     emoji: "🤣",
     name: "Rolling On The Floor, Laughing",
     meaning:
-      "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+      "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“.",
   },
   {
     id: 4,
     emoji: "😢",
-    name: "Crying",
-    meaning: "to cry."
-  }
+    name: "Crying Face",
+    meaning:
+      "Smiley with drooping eyebrows is sad and crying. A tear drop is running down the cheek. A picture of misery. Not so much general sadness, but rather pain over one thing. It still hurts to remember a certain event.",
+  },
 ];
 
 export default emojipedia;
